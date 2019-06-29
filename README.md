@@ -1,7 +1,7 @@
 # Quotify
 
-Quotify is a Oh-My-Zsh plugin to display inspiring coding quotes
-from our pairs when starting your favourite shell 🤓
+Quotify is an Oh-My-Zsh plugin to display inspiring coding quotes
+from our pairs when starting up your favourite shell 🤓
 
 To install it:
 
@@ -9,10 +9,10 @@ To install it:
     git clone https://github.com/damofthemoon/zsh-quotify.git ~/.oh-my-zsh/custom/plugins/quotify
 ```
 
-Then in your ~/.zshrc
+Then yo setup in your ~/.zshrc
 
 ```bash
-    plugins=([tmux git ...] quotify)
+    plugins=( ... quotify)
 ```
 
-All quotes come from http://www.devtopics.com/101-great-computer-programming-quotes/
+All quotes come from [devtopics](http://www.devtopics.com/101-great-computer-programming-quotes/).
