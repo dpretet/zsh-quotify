@@ -9,7 +9,7 @@ To install it:
     git clone https://github.com/damofthemoon/zsh-quotify.git ~/.oh-my-zsh/custom/plugins/quotify
 ```
 
-Then yo setup in your ~/.zshrc
+Then to setup in your ~/.zshrc
 
 ```bash
     plugins=( ... quotify)
