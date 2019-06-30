@@ -293,7 +293,7 @@ mistakes in my own programs.”\n\
 (Maurice Wilkes discovers debugging, 1949)"
 
 "“Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code\n\
-    as cleverly as possible, you are–by definition–not smart enough to debug it.”\n\
+as cleverly as possible, you are–by definition–not smart enough to debug it.”\n\
 (Brian Kernighan)"
 
 "“If debugging is the process of removing bugs, then programming must be the process of putting them in.”\n\
