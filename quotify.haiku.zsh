@@ -738,7 +738,7 @@ Cold evening rain\n\
 
 "Rainy-month, dripping\n\
 on and on\n\
-as I lie abed... \n\
+as I lie abed...\n\
 Ah, old man's memories!\n\
 (Yosa Buson)"
 
@@ -748,10 +748,39 @@ samisen\n\
 A mouse is trotting\n\
 (Yosa Buson)"
 
-"Old weary willows... \n\
+"Old weary willows...\n\
 I thought how long\n\
 the road would be\n\
 When you went away"
+
+"Le son de la vallée\n\
+est une grande conférence\n\
+La couleur de la montagne\n\
+est le corps pur sans souillure\n\
+(Sotoba)"
+
+"L'arbre majestueux et puissant\n\
+est semblable au grand homme mort\n\
+(Maître Keizan)"
+
+"Ni croissance, ni décroissance,\n\
+ni souillure, ni rejet de la souillure,\n\
+ni obtention, ni non-obtention.\n\
+(Le sutra du coeur)"
+
+"La voie du Darhma, ne change pas\n\
+suivant les temps anciens ou modernes\n\
+(Ju Hun)"
+
+"Comme un rêve, un fantôme, une fleur de vacuité,\n\
+Ainsi est notre vie.\n\
+Pourquoi devrions nous souffrir \n\
+Pour saisir cette illusion?\n\
+(Maître Sosan)"
+
+"Le gain, la perte, le juste, le faux,\n\
+Je vous en prie, abandonnez les.\n\
+(Maître Sosan)"
 
 )
 
