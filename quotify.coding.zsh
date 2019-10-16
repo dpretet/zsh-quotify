@@ -7,7 +7,7 @@ coding_quotes=(
 "“Computers are useless. They can only give you answers.”\n(Pablo Picasso)"
 "“Computers are like bikinis. They save people a lot of guesswork.”\n(Sam Ewing)"
 "“They have computers, and they may have other weapons of mass destruction.”\n(Janet Reno)"
-"“That’s what’s cool about working with computers.\They don’t argue, they remember everything,\n\
+"“That’s what’s cool about working with computers. They don’t argue, they remember everything,\n\
 and they don’t drink all your beer.”\n(Paul Leary)"
 
 # Computer Intelligence
